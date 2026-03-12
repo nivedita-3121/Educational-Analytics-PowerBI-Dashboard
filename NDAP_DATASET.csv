@@ -1,0 +1,73 @@
+Country,State,Year,"Physics (UOM:%(Percentage)), Scaling Factor:1","Chemistry (UOM:%(Percentage)), Scaling Factor:1","Biology (UOM:%(Percentage)), Scaling Factor:1","Computer (UOM:%(Percentage)), Scaling Factor:1","Mathematics (UOM:%(Percentage)), Scaling Factor:1","Language (UOM:%(Percentage)), Scaling Factor:1","Geography (UOM:%(Percentage)), Scaling Factor:1","Home Science (UOM:%(Percentage)), Scaling Factor:1","Psychology (UOM:%(Percentage)), Scaling Factor:1","Total Number Of Higher Secondary Schools (UOM:Number), Scaling Factor:1","Percentage Of Schools With Integrated Science Lab At Secondary Stage (UOM:%(Percentage)), Scaling Factor:1","Total Number Of Secondary Schools (UOM:Number), Scaling Factor:1"
+India,Andaman And Nicobar Islands,"Financial Year (Apr - Mar), 2017",53.85,55.38,55.38,63.08,32.31,6.15,35.38,30.77,1.54,65,50.86,116
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2017",18.96,18.79,16.66,11.25,4.05,2.94,1.66,1.49,1.41,2347,33.34,12611
+India,Arunachal Pradesh,"Financial Year (Apr - Mar), 2017",38.51,37.27,37.89,40.37,13.04,8.7,17.39,4.35,4.35,161,67.32,462
+India,Assam,"Financial Year (Apr - Mar), 2017",17.24,17.46,16.78,20.42,6.91,4.18,6.91,1.96,2.0,2199,18.15,8641
+India,Bihar,"Financial Year (Apr - Mar), 2017",26.24,25.38,24.94,27.85,9.92,7.01,9.94,8.85,8.68,4768,33.94,8077
+India,Chandigarh,"Financial Year (Apr - Mar), 2017",73.68,73.68,71.58,92.63,64.21,33.68,22.11,42.11,14.74,95,92.17,166
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2017",29.53,29.17,27.2,27.8,9.83,5.55,6.91,2.04,1.68,4111,66.55,6691
+India,Delhi,"Financial Year (Apr - Mar), 2017",55.01,55.41,53.92,75.75,57.43,23.96,25.12,41.24,8.93,1736,76.45,2110
+India,Goa,"Financial Year (Apr - Mar), 2017",63.56,65.25,64.41,81.36,11.02,11.86,9.32,4.24,6.78,118,91.43,420
+India,Gujarat,"Financial Year (Apr - Mar), 2017",37.57,37.68,37.03,53.59,17.11,13.26,10.28,8.22,8.87,7264,55.34,11157
+India,Haryana,"Financial Year (Apr - Mar), 2017",47.84,47.75,43.51,73.71,29.53,15.96,18.32,12.95,5.04,4781,76.42,8019
+India,Himachal Pradesh,"Financial Year (Apr - Mar), 2017",33.84,33.88,32.76,61.1,11.88,5.46,6.14,2.81,1.65,2491,47.73,4104
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2017",61.67,61.77,58.88,60.28,10.88,6.51,8.56,3.35,2.05,1051.48637455271103840750,62.06,4181.49232670961831552750
+India,Jharkhand,"Financial Year (Apr - Mar), 2017",40.55,40.36,38.95,42.34,24.34,13.0,16.53,10.83,10.83,1561,51.97,4672
+India,Karnataka,"Financial Year (Apr - Mar), 2017",14.31,14.07,14.17,15.43,5.1,4.38,1.86,0.98,1.2,4996,33.81,16271
+India,Kerala,"Financial Year (Apr - Mar), 2017",65.27,64.57,60.38,75.15,22.64,14.84,5.66,2.88,3.82,2986,67.72,4705
+India,Ladakh,"Financial Year (Apr - Mar), 2017",61.67,61.77,58.88,60.28,10.88,6.51,8.56,3.35,2.05,23.51362544728896159250,62.06,93.50767329038168447250
+India,Lakshadweep,"Financial Year (Apr - Mar), 2017",92.31,92.31,92.31,84.62,7.69,23.08,23.08,0.0,0.0,13,50.0,14
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2017",51.64,50.57,47.32,34.82,15.53,7.63,7.11,3.8,3.0,8662,60.87,16755
+India,Maharashtra,"Financial Year (Apr - Mar), 2017",46.95,47.1,46.01,51.89,22.29,14.04,15.86,5.33,5.27,9693,73.9,24358
+India,Manipur,"Financial Year (Apr - Mar), 2017",75.53,76.79,75.11,64.98,31.65,21.94,28.69,36.71,5.49,237,65.53,1082
+India,Meghalaya,"Financial Year (Apr - Mar), 2017",20.35,19.76,19.47,30.09,6.19,2.95,4.72,0.59,0.59,339,20.37,1532
+India,Mizoram,"Financial Year (Apr - Mar), 2017",17.71,17.71,14.86,13.71,1.71,1.14,3.43,1.14,1.14,175,31.83,666
+India,Nagaland,"Financial Year (Apr - Mar), 2017",32.79,32.24,33.88,45.36,12.57,8.2,8.74,3.83,2.73,183,39.84,748
+India,Odisha,"Financial Year (Apr - Mar), 2017",42.09,41.85,40.46,36.59,17.33,10.27,7.97,7.55,6.52,1656,20.28,9873
+India,Puducherry,"Financial Year (Apr - Mar), 2017",76.27,76.84,74.58,78.53,11.3,9.6,2.82,3.39,0.0,177,69.84,368
+India,Punjab,"Financial Year (Apr - Mar), 2017",43.11,43.21,40.57,80.81,38.43,17.09,8.76,8.72,2.99,5080,68.96,9415
+India,Rajasthan,"Financial Year (Apr - Mar), 2017",19.22,19.48,18.32,37.59,9.35,6.04,23.11,11.74,2.58,18423,33.63,29610
+India,Sikkim,"Financial Year (Apr - Mar), 2017",52.94,50.0,51.96,72.55,21.57,37.25,13.73,4.9,3.92,102,60.24,249
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2017",85.77,85.84,78.88,83.58,15.46,15.52,3.08,2.24,2.93,7499,58.97,13296
+India,Telangana,"Financial Year (Apr - Mar), 2017",49.7,49.41,47.35,36.16,18.63,12.04,8.08,7.88,7.47,2475,32.04,12572
+India,The Dadra And Nagar Haveli And Daman And Diu,"Financial Year (Apr - Mar), 2017",58.6106797719909956858804,57.6674176852035909806413,58.6106797719909956858804,86.1294114101207201302282,17.2276663890873730074729,4.3103398859954978429402,4.3103398859954978429402,0.000000000000000000000,0.000000000000000000000,46.00000000000000000000,69.1296411598158306157414,87.00000000000000000000
+India,Tripura,"Financial Year (Apr - Mar), 2017",40.04,39.15,38.7,30.65,8.05,3.36,7.61,2.01,3.58,447,29.05,1112
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2017",35.5,34.88,33.67,28.65,13.09,9.92,15.93,18.78,7.0,18944,48.09,30356
+India,Uttarakhand,"Financial Year (Apr - Mar), 2017",41.96,40.98,39.7,52.09,17.31,7.63,11.81,8.41,3.32,2438,56.63,3726
+India,West Bengal,"Financial Year (Apr - Mar), 2017",45.25,44.24,44.98,53.99,6.39,4.78,58.37,5.91,2.53,7279,25.46,10597
+India,Andaman And Nicobar Islands,"Financial Year (Apr - Mar), 2016",36.51,38.1,36.51,39.68,19.05,4.76,22.22,17.46,0.0,63,43.36,113
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2016",0.84,0.84,0.84,0.84,0.28,0.28,0.28,0.28,0.28,358,26.43,12063
+India,Arunachal Pradesh,"Financial Year (Apr - Mar), 2016",13.92,13.29,13.92,12.03,3.8,1.9,5.7,0.0,0.0,158,66.37,449
+India,Assam,"Financial Year (Apr - Mar), 2016",10.63,10.63,10.31,10.87,4.06,2.29,3.87,0.98,1.07,2144,16.02,8369
+India,Bihar,"Financial Year (Apr - Mar), 2016",22.14,21.49,20.76,23.28,6.48,5.15,7.74,7.23,6.99,4119,31.81,7748
+India,Chandigarh,"Financial Year (Apr - Mar), 2016",55.32,55.32,53.19,72.34,48.94,24.47,18.09,37.23,13.83,94,88.68,159
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2016",36.67,36.34,34.31,34.61,12.42,6.95,8.45,2.51,2.11,3987,63.58,6524
+India,Delhi,"Financial Year (Apr - Mar), 2016",53.52,53.87,51.89,72.95,55.56,23.09,24.49,39.91,8.55,1719,73.39,2086
+India,Goa,"Financial Year (Apr - Mar), 2016",50.43,50.43,51.3,60.0,5.22,7.83,7.83,1.74,6.09,115,89.45,417
+India,Gujarat,"Financial Year (Apr - Mar), 2016",21.39,21.44,21.02,28.67,7.33,5.09,2.96,1.6,1.97,6997,54.43,10723
+India,Haryana,"Financial Year (Apr - Mar), 2016",39.17,39.44,35.82,59.83,24.7,13.11,15.32,10.61,4.0,4478,74.33,7831
+India,Himachal Pradesh,"Financial Year (Apr - Mar), 2016",19.22,19.18,18.8,27.42,7.06,2.96,3.38,1.52,0.76,2367,44.57,3962
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2016",41.81,42.1,39.94,38.26,7.39,3.93,5.89,1.96,1.03,1045.61761339241683726290,57.46,4145.30163288780407513580
+India,Jharkhand,"Financial Year (Apr - Mar), 2016",18.68,18.68,18.16,19.28,10.66,4.61,6.45,4.08,3.49,1520,46.43,4639
+India,Karnataka,"Financial Year (Apr - Mar), 2016",15.02,14.77,14.88,16.16,5.33,4.55,1.91,1.01,1.24,4766,35.33,15708
+India,Kerala,"Financial Year (Apr - Mar), 2016",40.5,39.97,38.05,45.1,15.23,9.09,3.32,1.68,2.32,2980,65.02,4705
+India,Ladakh,"Financial Year (Apr - Mar), 2016",41.81,42.1,39.94,38.26,7.39,3.93,5.89,1.96,1.03,23.38238660758316273710,57.46,92.69836711219592486420
+India,Lakshadweep,"Financial Year (Apr - Mar), 2016",92.31,92.31,92.31,84.62,15.38,23.08,15.38,0.0,0.0,13,46.67,15
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2016",38.56,37.99,35.57,26.94,10.9,5.13,4.56,2.35,1.67,8513,53.72,16264
+India,Maharashtra,"Financial Year (Apr - Mar), 2016",38.63,38.68,37.76,43.42,17.35,11.0,12.97,3.87,3.74,9089,74.52,23484
+India,Manipur,"Financial Year (Apr - Mar), 2016",61.11,62.04,62.04,49.07,31.48,18.98,24.54,26.85,6.02,216,54.93,1054
+India,Meghalaya,"Financial Year (Apr - Mar), 2016",10.93,10.93,10.61,15.43,3.86,1.93,4.18,0.96,0.32,311,19.12,1449
+India,Mizoram,"Financial Year (Apr - Mar), 2016",4.88,5.49,3.66,7.32,0.61,0.0,0.61,0.0,0.0,164,28.09,648
+India,Nagaland,"Financial Year (Apr - Mar), 2016",6.4,6.4,6.4,6.98,2.33,1.16,2.33,0.0,0.0,172,36.19,724
+India,Odisha,"Financial Year (Apr - Mar), 2016",31.86,31.47,30.94,26.6,13.17,7.83,6.85,5.6,5.13,1519,15.5,9873
+India,Puducherry,"Financial Year (Apr - Mar), 2016",78.03,78.03,73.99,75.72,10.98,9.25,2.89,2.89,0.58,173,67.65,371
+India,Punjab,"Financial Year (Apr - Mar), 2016",31.44,31.58,29.64,65.7,22.53,9.65,5.59,4.95,1.6,4994,71.1,9298
+India,Rajasthan,"Financial Year (Apr - Mar), 2016",16.55,16.72,15.72,32.29,8.05,5.23,20.14,10.28,2.02,17300,36.35,28534
+India,Sikkim,"Financial Year (Apr - Mar), 2016",,,,,,,,,,87,61.3,230
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2016",69.61,69.44,63.52,66.99,10.77,12.05,2.47,2.04,2.91,7206,56.22,12893
+India,Telangana,"Financial Year (Apr - Mar), 2016",17.61,17.56,16.94,11.78,6.36,3.25,1.91,1.73,1.47,2249,26.6,12280
+India,The Dadra And Nagar Haveli And Daman And Diu,"Financial Year (Apr - Mar), 2016",55.2668670037016541935063,54.394854324595853502601,55.2668670037016541935063,71.9438251895150242031212,15.7910291350808292994798,4.3878961387824834929861,4.3878961387824834929861,0.000000000000000000000,0.000000000000000000000,45.00000000000000000000,66.4311677026642239688844,85.00000000000000000000
+India,Tripura,"Financial Year (Apr - Mar), 2016",31.43,30.95,30.48,21.19,6.19,3.33,5.48,1.19,2.86,420,28.19,1043
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2016",27.95,27.48,26.54,23.01,10.25,7.78,12.3,14.82,5.14,17386,51.63,27189
+India,Uttarakhand,"Financial Year (Apr - Mar), 2016",29.89,29.14,28.04,34.61,12.63,5.7,8.57,6.62,2.3,2265,57.06,3575
+India,West Bengal,"Financial Year (Apr - Mar), 2016",33.77,32.89,33.53,32.34,3.72,2.52,39.65,3.99,1.66,7069,23.54,10346
